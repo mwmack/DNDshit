@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+
+  <element name="Caestus" type="Simple Weapon" source="The Art of Catching These Hands" id="ID_MITCH_WEAPON_TACTH_KNUCKLES">
+    <supports>Simple Weapon, Item</supports>
+    <description>
+      <p>These fighting gloves made from layered boiled leather and reinforced with metal studs.</p>
+      <p class="indent"><strong><em>+1 Masterwork Weapon.</em></strong> Your unarmed strikes gain +1 to attack and damage rolls.</p>
+    </description>
+  </element>
+
+</elements>
